@@ -8,6 +8,7 @@
 --Light-gray: hsl(212, 45%, 89%);
 --Grayish-blue: hsl(220, 15%, 55%);
 --Dark-blue: hsl(218, 44%, 22%);
+    font-family: 'outfit', sans-serif;
 }
 
 .main-view{
@@ -55,6 +56,13 @@
     color: #666;
     padding: 10px 15px 36px 15px;
     font-weight: 400;
+}
+.attribution{
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a{
+    color: hsl(228, 45%, 44%);
 }
 
 /* Mobile view*/
